@@ -1,0 +1,19 @@
+/* Home Page Specific Styles */
+
+/* Updated class name to .intro-banner */
+.intro-banner {
+    text-align: center;
+    padding: 50px;
+    background-color: #ddd;
+    border-radius: 10px;
+}
+
+.intro-banner h1 {
+    font-size: 2.5em;
+    color: #444;
+}
+
+.intro-banner p {
+    font-size: 1.2em;
+    color: #666;
+}
